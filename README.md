@@ -44,7 +44,6 @@ Welcome to my GitHub! I'm passionate about decentralized technologies and buildi
 ## 📫 Let's Connect
 📧 **Email:** [edwinwanyoike.ke@gmail.com](mailto:edwinwanyoike.ke@gmail.com)  
 🐦 **Twitter:** [@Wangsco](https://twitter.com/Wangsco)  
-💼 **LinkedIn:** [Your LinkedIn]() *(optional)*  
-🌐 **Personal Website:** [Your Website]() *(optional)*  
+ 
 
 🌟 *"Let's build the decentralized future together!"* 🌟
