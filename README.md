@@ -1,24 +1,50 @@
 # 👋 Hi, I'm Edwin Wanyoike!
+### Blockchain Developer | GDG Kabarak Web Lead (2024-2025)
 
-Welcome to my GitHub profile! I'm a software developer passionate about blockchain technology. I've built on ICP before and love exploring decentralized solutions. Currently, I serve as the GDG OC Kabarak Web Lead for 2024-2025, contributing to the tech community and fostering innovation.
+Welcome to my GitHub! I'm passionate about decentralized technologies and building innovative Web3 solutions. Currently leading developer communities at **Google Developer Groups Kabarak** while exploring cutting-edge blockchain concepts.
+
+---
 
 ## 🚀 About Me
+- 🌱 Currently diving deep into **ZK-proofs and smart contract security**
+- 💡 Experienced in **ICP (Internet Computer Protocol)** development
+- 🎯 **GDG OC Kabarak Web Lead** (2024-2025) - fostering tech growth
+- 🖥️ **Tech Stack:** Rust, Python, JavaScript (React), C++
+- ⚡ Fun fact: When not coding, you'll find me swimming or contributing to open source
 
-- 🌱 I’m currently exploring advanced blockchain concepts and decentralized applications.
-- 💡 I have experience building on ICP and love contributing to innovative Web3 solutions.
-- 🎯 As the GDG OC Kabarak Web Lead (2024-2025), I aim to foster tech growth and empower developers.
-- 🖥️ I’m proficient in Rust, Python, JavaScript, React, and C++.
-- ⚡ Fun fact: I love swimming and coding just for fun!
+---
 
 ## 🔧 Technologies & Tools
+**Blockchain:**  
+![ICP](https://img.shields.io/badge/Internet_Computer-29ABE2?style=flat&logo=internet-computer&logoColor=white)
 
-- **Languages:** Rust, Python, JavaScript, C++
-- **Frameworks & Libraries:** React
-- **Blockchain Platforms:** ICP (Internet Computer Protocol)
-- **Version Control:** Git
+**Languages:**  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-## 📫 How to reach me
+**Frameworks:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 
-- 📧 Email: edwinwanyoike.ke@gmail.com / edwinwang62@yahoo.com
-- 🐦 Twitter/X: [@Wangsco](https://x.com/Wangsco)
-- 📸 GitHub: [Wangscorp](https://github.com/Wangscorp)
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wangscorp&show_icons=true&theme=radical&hide_title=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangscorp&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Wangscorp&theme=radical&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+📧 **Email:** [edwinwanyoike.ke@gmail.com](mailto:edwinwanyoike.ke@gmail.com)  
+🐦 **Twitter:** [@Wangsco](https://twitter.com/Wangsco)  
+💼 **LinkedIn:** [Your LinkedIn]() *(optional)*  
+🌐 **Personal Website:** [Your Website]() *(optional)*  
+
+🌟 *"Let's build the decentralized future together!"* 🌟
