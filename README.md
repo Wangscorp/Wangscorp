@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Edwin Wanyoike!
-### Blockchain Developer | GDG Kabarak Web Lead (2024-2025)
+### GDG Kabarak Web Lead (2024-2025)
 
 Welcome to my GitHub! I'm passionate about decentralized technologies and building innovative Web3 solutions. Currently leading developer communities at **Google Developer Groups Kabarak** while exploring cutting-edge blockchain concepts.
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently diving deep into **ZK-proofs and smart contract security**
+- 🌱 Currently diving deep into **PostgreSQL and Supabase**
 - 💡 Experienced in **ICP (Internet Computer Protocol)** development
 - 🎯 **GDG OC Kabarak Web Lead** (2024-2025) - fostering tech growth
 - 🖥️ **Tech Stack:** Rust, Python, JavaScript (React), C++
