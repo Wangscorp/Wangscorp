@@ -1,11 +1,11 @@
-# 👋 Professional Profile: Edwin Wanyoike
+# Edwin Wanyoike 👋
 ### Former GDG OC Kabarak Web Lead (2024-2025)
 
-Welcome to my professional GitHub portfolio. As a seasoned technology enthusiast specializing in decentralized technologies and innovative Web3 solutions, I bring extensive experience in leading developer communities and pioneering cutting-edge blockchain implementations.
+Welcome to my GitHub! I'm passionate about decentralized technologies and building innovative Web3 solutions, bringing experience leading developer communities at Google Developer Groups Kabarak while exploring cutting-edge blockchain concepts.
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 - 🌟 **Leadership Role:** Former GDG OC Kabarak Web Lead, driving developer community growth and technical excellence
 - 🌱 **Current Focus:** Advanced PostgreSQL and Supabase integrations for enterprise-grade applications
 - 💡 **Expertise:** Internet Computer Protocol (ICP) development and blockchain architecture
@@ -34,8 +34,6 @@ Welcome to my professional GitHub portfolio. As a seasoned technology enthusiast
 
 ## 📊 GitHub Stats
 ![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wangscorp&show_icons=true&theme=radical&hide_title=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangscorp&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Wangscorp&theme=radical&hide_border=true)
 
