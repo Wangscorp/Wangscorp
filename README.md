@@ -35,6 +35,8 @@ Welcome to my GitHub! I'm passionate about decentralized technologies and buildi
 ## 📊 GitHub Stats
 ![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wangscorp&show_icons=true&theme=radical&hide_title=true&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangscorp&layout=compact&theme=radical&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Wangscorp&theme=radical&hide_border=true)
 
 ---
