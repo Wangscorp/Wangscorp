@@ -68,8 +68,6 @@ A lightweight blockchain prototype written in Rust, designed for educational pur
 
 📧 **Email:** [edwinwanyoike.ke@gmail.com](mailto:edwinwanyoike.ke@gmail.com)  
 🐦 **Twitter:** [@Wangsco](https://x.com/Wangsco)  
-🌐 **Portfolio:** [edwinwanyoike.dev](https://edwinwanyoike.dev) _(if available)_  
-📝 **Blog:** [Medium/@Wangsco](https://medium.com/@Wangsco) _(optional)_  
 
 ---
 
