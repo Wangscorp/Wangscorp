@@ -1,74 +1,95 @@
-# Edwin Wanyoike 👋
-*Former GDG OC Kabarak Web Lead (2024–2025)*
+<div align="center">
 
-Welcome to my GitHub! I'm passionate about decentralized technologies and building innovative Web3 solutions. With experience leading developer communities at Google Developer Groups Kabarak, I thrive at the intersection of blockchain architecture, open-source collaboration, and cutting-edge backend systems.
+<!-- Fast & clean animated header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=5000&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=Edwin+Wanyoike;Junior+Full-Stack+Engineer;Rust+%E2%9A%A1+React+%E2%9A%A1+Axum+%E2%9A%A1+PostgreSQL;Building+production-ready+apps+that+matter" height="85" alt="Edwin Wanyoike"/>
 
----
+<br/>
 
-## 🚀 About Me
-- 🌟 **Leadership Role:** Former GDG OC Kabarak Web Lead, driving developer community growth and technical excellence  
-- 🌱 **Current Focus:** Advanced PostgreSQL and Supabase integrations for enterprise-grade applications  
-- 💡 **Expertise:** Internet Computer Protocol (ICP) development and blockchain architecture  
-- 🖥️ **Technical Proficiency:** Rust, Python, JavaScript (React), C++ programming languages  
-- 🏊 **Personal Insight:** Dedicated to open-source contributions and maintaining an active lifestyle through swimming  
+**Junior Full-Stack Software Engineer**  
+*Rust Backend • React Frontend • Real Products • Real Impact*
 
----
+Former GDG Kabarak Web Lead (2024–2025) • Open-Source Contributor • Competitive Swimmer
 
-## 🔧 Technologies & Tools
+<br/>
 
-**Blockchain:**  
-![ICP](https://img.shields.io/badge/Internet_Computer-29ABE2?style=flat&logo=internet-computer&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Wangscorp-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wangscorp)
+[![Email](https://img.shields.io/badge/Email-edwinwanyoike.ke@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinwanyoike.ke@gmail.com)
+[![X](https://img.shields.io/badge/X-@Wangsco-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Wangsco)
 
-**Languages:**  
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<img src="https://visitcount.itsvg.in/api?id=Wangscorp&label=Profile%20Views&color=0&icon=0&pretty=true"/>
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-
-**Databases & Backend:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
 ---
 
-## 🌐 Featured Projects
+## Tech Stack
 
-🔗 [DecentraVote](https://github.com/Wangscorp/decentravote)  
-A secure, decentralized voting platform built on the Internet Computer Protocol using Rust and Motoko. Enables transparent and tamper-proof elections.
+<div align="center">
 
-📊 [Supabase Analytics Dashboard](https://github.com/Wangscorp/supabase-analytics)  
-An enterprise-grade dashboard leveraging Supabase and PostgreSQL for real-time data insights and visualizations.
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Internet_Computer-29ABE2?style=for-the-badge&logo=internet-computer&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-🛠️ [RustyChain](https://github.com/Wangscorp/rustychain)  
-A lightweight blockchain prototype written in Rust, designed for educational purposes and experimentation with consensus algorithms.
-
----
-
-## 📊 GitHub Stats
-
-![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wangscorp&show_icons=true&theme=radical&hide_title=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangscorp&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Wangscorp&theme=radical&hide_border=true)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Wangscorp&theme=radical&margin-w=15&margin-h=15)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Wangscorp&color=blue)
+</div>
 
 ---
 
-## 📫 Let's Connect
+## Projects That Matter
 
-📧 **Email:** [edwinwanyoike.ke@gmail.com](mailto:edwinwanyoike.ke@gmail.com)  
-🐦 **Twitter:** [@Wangsco](https://x.com/Wangsco)  
+<div align="center">
+
+| Project                  | Description                                                               | Stack                                        | Status            |
+|--------------------------|---------------------------------------------------------------------------|----------------------------------------------|-------------------|
+| **CV Maker**             | Full-stack resume builder with live preview & PDF export                 | **Backend:** Rust + Axum<br>**Frontend:** React + Vite + JavaScript | Active Development |
+| **Farmers Market Place** | Direct farmer-to-buyer marketplace with M-Pesa integration — Final Year Project | Rust Axum • React • PostgreSQL • JavaScript  | Live              |
+| **Movers App**           | Nationwide moving & logistics booking platform (Frontend Contributor)    | React • Vite • JavaScript • CSS              | Production        |
+
+<br/>
+
+[![CV Maker →](https://img.shields.io/badge/CV_Maker_(Rust+React)-000?style=flat&logo=github&logoColor=white)](https://github.com/Wangscorp/cv-maker-app)
+[![Farmers Market Place →](https://img.shields.io/badge/Farmers_Market_Place-000?style=flat&logo=github&logoColor=white)](https://github.com/Wangscorp/Farmers-Market-Place)
+[![Movers App →](https://img.shields.io/badge/Movers_App_(contrib)-000?style=flat&logo=github&logoColor=white)](https://github.com/sazalo101/moving-app)
+
+</div>
 
 ---
 
-🌟 *"Let's build the decentralized future together!"* 🌟
+## GitHub Stats (Always Fast & Accurate)
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Wangscorp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wangscorp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600"/>
+
+<br/>
+
+<!-- 100% reliable streak -->
+<img src="https://streak-stats.demolab.com?user=Wangscorp&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Wangscorp&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**"I build full-stack apps with Rust backends and React frontends — because speed, safety, and real-world impact matter."**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Wangscorp&color=6e40c9&style=flat-square&label=Total+Profile+Views"/>
+
+<br/><br/>
+
+**Currently seeking Junior Full-Stack • Rust • Backend • Frontend roles**  
+*Internships • Open-source • Mentorship • Collaboration — always welcome*
+
+</div>
