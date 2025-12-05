@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Fast & clean animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=5000&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=Edwin+Wanyoike;Junior+Full-Stack+Engineer;Rust+%E2%9A%A1+React+%E2%9A%A1+Axum+%E2%9A%A1+PostgreSQL;Building+production-ready+apps+that+matter" height="85" alt="Edwin Wanyoike"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=5000&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=Edwin+Wanyoike;Junior+Full-Stack+Engineer;Rust+%E2%9A%A1+React+%E2%9A%A1+Axum+%E2%9A%A1+PostgreSQL;Building+Cool+Products" height="85" alt="Edwin Wanyoike"/>
 
 <br/>
 
