@@ -1,23 +1,32 @@
 <div align="center">
 
-<!-- Fast & clean animated header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=5000&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=Edwin+Wanyoike;Junior+Full-Stack+Engineer;Rust+%E2%9A%A1+React+%E2%9A%A1+Axum+%E2%9A%A1+PostgreSQL;Building+Cool+Products" height="85" alt="Edwin Wanyoike"/>
 
 <br/>
 
-**Junior Full-Stack Software Engineer**  
-*Rust Backend • React Frontend • Real Products • Real Impact*
+**Junior Full-Stack Software Engineer** *Rust Backend • React Frontend • Real Products • Real Impact*
 
 Former GDG Kabarak Web Lead (2024–2025) • Open-Source Contributor • Competitive Swimmer
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Wangscorp-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wangscorp)
-[![Email](https://img.shields.io/badge/Email-edwinwanyoike.ke@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinwanyoike.ke@gmail.com)
 [![X](https://img.shields.io/badge/X-@Wangsco-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Wangsco)
 
 <img src="https://visitcount.itsvg.in/api?id=Wangscorp&label=Profile%20Views&color=0&icon=0&pretty=true"/>
 
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wangscorp/Wangscorp/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wangscorp/Wangscorp/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wangscorp/Wangscorp/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -43,11 +52,11 @@ Former GDG Kabarak Web Lead (2024–2025) • Open-Source Contributor • Compet
 
 <div align="center">
 
-| Project                  | Description                                                               | Stack                                        | Status            |
+| Project                 | Description                                                               | Stack                                       | Status            |
 |--------------------------|---------------------------------------------------------------------------|----------------------------------------------|-------------------|
-| **CV Maker**             | Full-stack resume builder with live preview & PDF export                 | **Backend:** Rust + Axum<br>**Frontend:** React + Vite + JavaScript | Active Development |
-| **Farmers Market Place** | Direct farmer-to-buyer marketplace with M-Pesa integration — Final Year Project | Rust Axum • React • PostgreSQL • JavaScript  | Live              |
-| **Movers App**           | Nationwide moving & logistics booking platform (Frontend Contributor)    | React • Vite • JavaScript • CSS              | Production        |
+| **CV Maker** | Full-stack resume builder with live preview & PDF export                  | **Backend:** Rust + Axum<br>**Frontend:** React + Vite + JS | Active Development |
+| **Farmers Market Place** | Direct farmer-to-buyer marketplace with M-Pesa integration               | Rust Axum • React • PostgreSQL • JS          | Live              |
+| **Movers App** | Nationwide moving & logistics booking platform (Frontend Contributor)     | React • Vite • JS • CSS                      | Production        |
 
 <br/>
 
@@ -59,7 +68,7 @@ Former GDG Kabarak Web Lead (2024–2025) • Open-Source Contributor • Compet
 
 ---
 
-## GitHub Stats (Always Fast & Accurate)
+## GitHub Stats
 
 <div align="center">
 
@@ -68,12 +77,7 @@ Former GDG Kabarak Web Lead (2024–2025) • Open-Source Contributor • Compet
 
 <br/>
 
-<!-- 100% reliable streak -->
 <img src="https://streak-stats.demolab.com?user=Wangscorp&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Wangscorp&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 
 </div>
 
@@ -89,7 +93,6 @@ Former GDG Kabarak Web Lead (2024–2025) • Open-Source Contributor • Compet
 
 <br/><br/>
 
-**Currently seeking Junior Full-Stack • Rust • Backend • Frontend roles**  
-*Internships • Open-source • Mentorship • Collaboration — always welcome*
+**Currently seeking Junior Full-Stack • Rust • Backend • Frontend roles** *Internships • Open-source • Mentorship • Collaboration — always welcome*
 
 </div>
