@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin_Wanyoike-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanyoike-ngigi/)
 [![X](https://img.shields.io/badge/X-@Wangsco-000?style=flat-square&logo=x&logoColor=white)](https://x.com/Wangsco)
-<img src="https://komarev.com/ghpvc/?username=Wangscorp&color=00E7FF&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Wangscorp&color=00E7FF&style=flat-square&label=Profile%20Views"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 I am a final-year **B.Sc. IT student at Kabarak University**, currently interning at **Computer Pride**. I specialize in bridging the gap between efficient software development (**Rust/React**) and robust network administration (**MikroTik/CCNA**).
 
 * 🔭 **Current:** Interning at **Computer Pride** (Enterprise IT Solutions & Training).
-* 📡 **Networking:** Completed **CCNA 1**; currently mastering **MikroTik Systems** and **Cisco IoT**.
+* 📡 **Networking:** **Self-taught MikroTik specialist** (load balancing/failover); Completed **CCNA 1**; Mastering **Cisco IoT**.
 * 🏗️ **Systems:** Architecting safe, concurrent backends with **Rust (Axum)** and **PostgreSQL**.
 * 🎯 **Goal:** Targeting the **Safaricom Internship (Apr - Sept 2026)** to drive digital transformation.
 
@@ -28,7 +28,7 @@ I am a final-year **B.Sc. IT student at Kabarak University**, currently internin
 | Category | Skills |
 | :--- | :--- |
 | **Languages & Frameworks** | Rust (Axum), React, JavaScript, Node.js, Python |
-| **Networking** | MikroTik Configuration, CCNA 1, Cisco IoT, Digital Transformation |
+| **Networking** | **MikroTik (Self-Taught)**, CCNA 1, Cisco IoT & Digital Transformation |
 | **Databases & Tools** | PostgreSQL, Supabase, Git, Linux, Docker |
 | **Specialized** | M-Pesa (Daraja API) Integration, Fintech Solutions |
 
@@ -41,9 +41,6 @@ I am a final-year **B.Sc. IT student at Kabarak University**, currently internin
 
 **[CV Maker](https://github.com/Wangscorp/cv-maker-app)**
 > A full-stack resume architect with live preview and real-time PDF generation using **Rust** and **React**.
-
-**[Movers App](https://github.com/sazalo101/moving-app)**
-> Contributed to the frontend of a nationwide logistics booking platform using **React** and **Tailwind CSS**.
 
 ---
 
