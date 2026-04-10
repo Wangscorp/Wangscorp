@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=Edwin+Wanyoike;Software+Engineer+%E2%9A%A1+Network+Administrator;Rust+%7C+React+%7C+MikroTik+%7C+CCNA;Computer+Pride+Intern" height="70" alt="Edwin Wanyoike"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=Edwin+Wanyoike;IT+Support+%E2%9A%A1+Digital+Transformation;Cyber+Security+%7C+Rust+%7C+MikroTik+%7C+CCNA;Computer+Pride+Intern" height="70" alt="Edwin Wanyoike"/>
 
-### Software Engineer & IT Systems Professional
-*Focused on High-Performance Backend Systems and Scalable Infrastructure*
+### IT Systems Professional & Software Engineer
+*Bridging Infrastructure Support, Digital Transformation, and Cybersecurity*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin_Wanyoike-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanyoike-ngigi/)
 [![X](https://img.shields.io/badge/X-@Wangsco-000?style=flat-square&logo=x&logoColor=white)](https://x.com/Wangsco)
@@ -14,12 +14,12 @@
 ---
 
 ## 🚀 Professional Overview
-I am a final-year **B.Sc. IT student at Kabarak University**, currently interning at **Computer Pride**. I specialize in bridging the gap between efficient software development (**Rust/React**) and robust network administration (**MikroTik/CCNA**).
+I am a final-year **B.Sc. IT student at Kabarak University** and an **ICT Intern at Computer Pride**. My core focus is driving **Digital Transformation** by implementing secure, high-performance IT frameworks and providing expert **IT Support**.
 
-* 🔭 **Current:** Interning at **Computer Pride** (Enterprise IT Solutions & Training).
-* 📡 **Networking:** Completed **CCNA 1**; currently mastering **MikroTik Systems** and **Cisco IoT**.
-* 🏗️ **Systems:** Architecting safe, concurrent backends with **Rust (Axum)** and **PostgreSQL**.
-* 🎯 **Goal:** Targeting the **Safaricom Internship (Apr - Sept 2026)** to drive digital transformation.
+* 🔭 **Current Focus:** Modernizing enterprise workflows and enhancing **Cybersecurity** posture.
+* 🛡️ **Security:** Implementing threat mitigation strategies and secure-by-design systems using **Rust**.
+* 📡 **Networking:** Specialized in **MikroTik Systems** and **CCNA** to build resilient network backbones.
+* ⚙️ **Transformation:** Automating legacy processes to improve efficiency and system reliability.
 
 ---
 
@@ -27,23 +27,24 @@ I am a final-year **B.Sc. IT student at Kabarak University**, currently internin
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages & Frameworks** | Rust (Axum), React, JavaScript, Node.js, Python |
-| **Networking** | MikroTik Configuration, CCNA 1, Cisco IoT, Digital Transformation |
-| **Databases & Tools** | PostgreSQL, Supabase, Git, Linux, Docker |
-| **Specialized** | M-Pesa (Daraja API) Integration, Fintech Solutions |
+| **IT Support & Transformation** | System Migration, Digital Workflow Optimization, Technical Troubleshooting |
+| **Cybersecurity** | Network Hardening, Secure Coding (Rust), Threat Assessment, Access Management |
+| **Networking** | MikroTik Configuration (PCC Load Balancing), CCNA 1, VPN, Firewall Management |
+| **Development** | Rust (Axum), React, PostgreSQL, Bash Scripting, Docker |
+| **Platforms** | Linux Administration (Ubuntu/Fedora), Git, Supabase, M-Pesa Daraja API |
 
 ---
 
 ## 📂 Featured Projects
 
 **[Farmers Market Place](https://github.com/Wangscorp/Farmers-Market-Place)**
-> A direct farmer-to-buyer marketplace built with **Rust Axum** and **PostgreSQL**, featuring full **M-Pesa integration** for localized payments.
+> A secure, direct-to-consumer marketplace leveraging **Rust** for safety and **M-Pesa** for secure financial transactions, reducing middleman friction.
+
+**[Dual ISP Load Balancing](https://github.com/Wangscorp)**
+> A networking project utilizing **MikroTik PCC** to ensure high availability and optimized traffic flow—a cornerstone of digital infrastructure.
 
 **[CV Maker](https://github.com/Wangscorp/cv-maker-app)**
-> A full-stack resume architect with live preview and real-time PDF generation using **Rust** and **React**.
-
-**[Movers App](https://github.com/sazalo101/moving-app)**
-> Contributed to the frontend of a nationwide logistics booking platform using **React** and **Tailwind CSS**.
+> A full-stack application focused on simplifying professional documentation through real-time PDF generation and secure data handling.
 
 ---
 
@@ -58,7 +59,7 @@ I am a final-year **B.Sc. IT student at Kabarak University**, currently internin
 
 <div align="center">
 
-**"Speed, safety, and reliability are not features—they are requirements."**
+**"Simplicity in complexity."**
 
 *Open for Collaboration & Professional Networking*
 </div>
