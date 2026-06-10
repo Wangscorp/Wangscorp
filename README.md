@@ -5,7 +5,7 @@
 ### IT Systems Professional & Software Engineer
 *Bridging Infrastructure Support, Digital Transformation, and Cybersecurity*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin_Wanyoike-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanyoike-ngigi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin_Wanyoike-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanyoike-edwin/)
 [![X](https://img.shields.io/badge/X-@Wangsco-000?style=flat-square&logo=x&logoColor=white)](https://x.com/Wangsco)
 <img src="https://komarev.com/ghpvc/?username=Wangscorp&color=00E7FF&style=flat-square&label=Profile+Views"/>
 
