@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=Edwin+Wanyoike;IT+Support+%E2%9A%A1+Digital+Transformation;Cyber+Security+%7C+Rust+%7C+MikroTik+%7C+CCNA;Computer+Pride+Intern" height="70" alt="Edwin Wanyoike"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=Edwin+Wanyoike;IT+Support+%E2%9A%A1+Digital+Transformation;Cyber+Security+%7C+Rust+%7C+MikroTik+%7C+CCNA;Qona+Sacco+Intern" height="70" alt="Edwin Wanyoike"/>
 
 ### IT Systems Professional & Software Engineer
 *Bridging Infrastructure Support, Digital Transformation, and Cybersecurity*
@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Professional Overview
-I am a final-year **B.Sc. IT student at Kabarak University** and an **ICT Intern at Computer Pride**. My core focus is driving **Digital Transformation** by implementing secure, high-performance IT frameworks and providing expert **IT Support**.
+I am a final-year **B.Sc. IT student at Kabarak University** and an **ICT Intern at Qona Sacco**. My core focus is driving **Digital Transformation** by implementing secure, high-performance IT frameworks and providing expert **IT Support**.
 
 * 🔭 **Current Focus:** Modernizing enterprise workflows and enhancing **Cybersecurity** posture.
 * 🛡️ **Security:** Implementing threat mitigation strategies and secure-by-design systems using **Rust**.
